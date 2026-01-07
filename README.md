@@ -151,9 +151,4 @@ python src/predict.py
 **Sonali Raturi**  
 Data Scientist | QA Automation Engineer | NLP Enthusiast  
 
----
-
-## License
-This project is open-source and available for educational and professional use.
-
 
